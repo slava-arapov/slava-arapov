@@ -12,6 +12,9 @@ I'm Slava Arapov, a Full-Stack developer from Voronezh, Russia.
 - PHP, Laravel, Yii2
 - HTML, CSS, Sass, BEM
 
+### 📄 My CV
+- [OneDrive](https://1drv.ms/u/s!AtftHyHvpzvBi7Bmjww5oPF-uIvXNA?e=bfYYu2) (PDF/docx, en/ru)
+
 ## 🐌 My pet projects
 
 ### 🧞 myjinn.com
