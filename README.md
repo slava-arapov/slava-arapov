@@ -1,14 +1,14 @@
 ## Hi there, I'm Slava 👋
 
-I'm Slava Arapov, a Full-Stack developer from Voronezh, Russia.
+I'm Slava Arapov, a frontend developer from Voronezh, Russia.
 
-- 🛠️ I'm currently a software engineer at [Voronezh State Technical University](https://cchgeu.ru).
+- 🛠️ I'm currently a frontend software engineer at [Vizex Info LTD](https://vizex.ru/).
 - 🚀 I've completed a lot of projects of various sizes from ordinary landing pages to complex business logic systems as a freelancer.
-- 🐘 I'm writing on JavaScript and PHP most of the time.
+- 💻 I'm writing on JavaScript and PHP most of the time.
 - ✏️ I write notes and collect links in my digital garden [notes.arapov.net](https://notes.arapov.net).
 
 ### 🛠 My tech stack
-- JavaScript, TypeScript, Vue.js 2/3
+- JavaScript, TypeScript, Vue.js 2/3, Nuxt
 - PHP, Laravel, Yii2
 - HTML, CSS, Sass, BEM
 
