@@ -2,20 +2,20 @@
 
 I'm Slava Arapov, a frontend developer from Voronezh, Russia.
 
-- 🛠️ I'm currently a frontend software engineer at [Vizex Info LTD](https://vizex.ru/).
+- 🛠️ I'm currently a frontend software engineer at [42 LTD](https://answer-42.ru/). We develop products for schoolchildren.
 - 🚀 I've completed a lot of projects of various sizes from ordinary landing pages to complex business logic systems as a freelancer.
-- 💻 I'm writing on JavaScript and PHP most of the time.
+- 💻 I'm writing on JavaScript most of the time.
 - ✏️ I write notes and collect links in my digital garden [notes.arapov.net](https://notes.arapov.net).
 
 ### 🛠 My tech stack
-- JavaScript, TypeScript, Vue.js 2/3, Nuxt
-- PHP, Laravel, Yii2
+- JavaScript, TypeScript, Vue.js, Nuxt
 - HTML, CSS, Sass, BEM
+- PHP, Laravel, Yii2
 
 ### 📄 My CV
 - [OneDrive](https://1drv.ms/u/s!AtftHyHvpzvBi7Bmjww5oPF-uIvXNA?e=bfYYu2) (PDF/docx, en/ru)
 
-## 🐌 My pet projects
+## 🐌 Check out my pet projects
 
 ### 🧞 myjinn.com
 
@@ -24,10 +24,6 @@ I'm Slava Arapov, a frontend developer from Voronezh, Russia.
 ### 🌱 [notes.arapov.net](https://github.com/slava-arapov/notes.arapov.net)
 
 My digital garden and knowledge base. I write notes and collect links on technical and other topics in English and Russian. The project is managed and hosted on GitHub and GitHub Pages.
-
-### ⛏ [starter-laravel-vue-frontend](https://github.com/slava-arapov/starter-laravel-vue-frontend) / [starter-laravel-vue-backend](https://github.com/slava-arapov/starter-laravel-vue-backend)
-
-This template is designed for a quick start of a new Vue 3/Laravel project. The starter is decoupled into Backend Laravel API and Frontend Vue.js SPA. I'm trying to get this starter to follow the best modern practices.
 
 ## 🤝 Contact me
 - Website: [arapov.net](https://arapov.net)
